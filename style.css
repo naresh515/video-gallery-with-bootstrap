@@ -27,6 +27,7 @@ li a {
     width: 100%;
     border-radius: 0;
     position: relative;
+    object-fit: cover;
 }
 
 .video-gallery .lightbox:before {
