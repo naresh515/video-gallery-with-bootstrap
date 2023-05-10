@@ -6,7 +6,7 @@ $(document).ready(function () {
             patterns: {
                 mp4: {
                     index: '.mp4',
-                    src: '%src%'
+                    src: '%href%'
                 }
             }
         },
